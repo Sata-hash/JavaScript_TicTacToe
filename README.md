@@ -1,4 +1,4 @@
-<h3>Tic Tac Toe Game</h3>
+<h3 align="center">Tic Tac Toe Game</h3>
 <p align="center">
 <a href=""><strong>View Live Demo</strong></a>
 </p>
