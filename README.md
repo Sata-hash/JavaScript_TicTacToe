@@ -4,7 +4,7 @@
 </p>
 
 ## The Game..
-
+![Tic-Tac](https://github.com/Sata-hash/JavaScript_TicTacToe/assets/142712421/45e6809a-ae4c-4ab2-bd56-a9dd1c57ad3b)
 
 ## Made With:
 -->🚀️HTML for structuring
